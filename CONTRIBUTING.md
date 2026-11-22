@@ -13,21 +13,15 @@ Thanks for helping make patterns better than a PDF.
 - A spec change needs matching schema updates and conformance files (valid and invalid examples) where they apply.
 - Code changes need tests.
 
-## Sign your commits (DCO)
-
-We use the [Developer Certificate of Origin](https://developercertificate.org/). It says you wrote your contribution or have the right to submit it under the project's license. Add a sign-off to every commit:
-
-`git commit -s -m "Describe your change"`
-
-This adds a `Signed-off-by: Your Name <you@example.com>` line. Pull requests with unsigned commits can't be merged.
-
 ## License of contributions
 
-Your contribution is licensed under the license of the repository it goes into:
+By contributing, you agree that your contribution is licensed under the license of the repository it goes into:
 
 - `spec`: specification text under CC BY 4.0, and schemas, registry and conformance files under CC0
 - `ptrn-js`: Apache 2.0
 - `website`: code under Apache 2.0, written content under CC BY 4.0
+
+Only submit work you wrote or have the right to share.
 
 ## Conduct and security
 
