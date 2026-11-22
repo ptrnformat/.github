@@ -1,13 +1,15 @@
-# PTRN Working Group
+# .github
 
-We maintain **PTRN** (`.ptrn`), an open file format for stitched-craft patterns, so patterns can be more than a PDF. Crochet comes first. Knitting, cross-stitch and embroidery are planned for later.
+Community health files and the organization profile for the [PTRN Working Group](https://github.com/ptrnformat).
 
-**Website:** [ptrnformat.org](https://ptrnformat.org)
+The files in this repository apply by default to every repository in the organization that doesn't have its own version:
 
-## Repositories
+- [`GOVERNANCE.md`](GOVERNANCE.md): how decisions are made
+- [`CONTRIBUTING.md`](CONTRIBUTING.md): how to contribute, including the DCO sign-off
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md): our code of conduct
+- [`SECURITY.md`](SECURITY.md): how to report a vulnerability
+- [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md): the default pull request template
 
-- [`spec`](https://github.com/ptrnformat/spec): the format specification, JSON Schemas, stitch registry and conformance corpus
-- [`ptrn-js`](https://github.com/ptrnformat/ptrn-js): the TypeScript reference implementation
-- [`website`](https://github.com/ptrnformat/website): the source for ptrnformat.org
+The organization profile page is [`profile/README.md`](profile/README.md).
 
-The format is a draft and nothing is stable yet.
+These documents are licensed under [CC BY 4.0](LICENSE).
